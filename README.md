@@ -166,7 +166,7 @@ com.glorymukami.neobanking/
 ### Installation
 1. **Clone or Download** the project
    ```bash
-   git clone https://github.com/yourusername/neobanking.git
+   git clone https://github.com/mukamikinyua/neobanking.git
    ```
 
 2. **Open in Android Studio**
